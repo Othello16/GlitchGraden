@@ -140,8 +140,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1600, y: 900}
+=======
+  m_AnchoredPosition: {x: 1.03, y: 5.98}
+  m_SizeDelta: {x: 1599.28, y: 900}
+>>>>>>> c4902056d0e160f14842083672eb085203118cc3
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &84107250
 MonoBehaviour:
@@ -537,7 +542,11 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+<<<<<<< HEAD
     m_RotationOrder: 0
+=======
+    m_RotationOrder: 4
+>>>>>>> c4902056d0e160f14842083672eb085203118cc3
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -561,7 +570,11 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+<<<<<<< HEAD
     m_RotationOrder: 0
+=======
+    m_RotationOrder: 4
+>>>>>>> c4902056d0e160f14842083672eb085203118cc3
 --- !u!4 &1531266747
 Transform:
   m_ObjectHideFlags: 0
@@ -680,7 +693,11 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+<<<<<<< HEAD
     m_RotationOrder: 0
+=======
+    m_RotationOrder: 4
+>>>>>>> c4902056d0e160f14842083672eb085203118cc3
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -704,7 +721,11 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+<<<<<<< HEAD
     m_RotationOrder: 0
+=======
+    m_RotationOrder: 4
+>>>>>>> c4902056d0e160f14842083672eb085203118cc3
 --- !u!1 &2088929529
 GameObject:
   m_ObjectHideFlags: 0
