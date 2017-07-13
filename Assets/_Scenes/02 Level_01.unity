@@ -159,7 +159,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11415284, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: attackerPrefabArray.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 435128, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: m_LocalPosition.x
@@ -534,7 +534,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11415284, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: attackerPrefabArray.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 435128, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: m_LocalPosition.x
@@ -592,7 +592,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11415284, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: attackerPrefabArray.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 435128, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: m_LocalPosition.x
@@ -820,7 +820,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11415284, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: attackerPrefabArray.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 435128, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: m_LocalPosition.x
@@ -878,7 +878,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11415284, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: attackerPrefabArray.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 435128, guid: 84fa44bd503264e539d07d93bc011558, type: 2}
       propertyPath: m_LocalPosition.x
