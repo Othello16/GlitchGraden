@@ -42,7 +42,7 @@ RenderSettings:
 --- !u!157 &4
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 9
+  serializedVersion: 11
   m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
@@ -54,7 +54,7 @@ LightmapSettings:
     m_EnableBakedLightmaps: 1
     m_EnableRealtimeLightmaps: 0
   m_LightmapEditorSettings:
-    serializedVersion: 8
+    serializedVersion: 9
     m_Resolution: 1
     m_BakeResolution: 50
     m_TextureWidth: 1024
@@ -87,7 +87,7 @@ LightmapSettings:
     m_PVRFilteringAtrousNormalSigma: 1
     m_PVRFilteringAtrousPositionSigma: 1
   m_LightingDataAsset: {fileID: 0}
-  m_ShadowMaskMode: 2
+  m_UseShadowmask: 1
 --- !u!196 &5
 NavMeshSettings:
   serializedVersion: 2
@@ -605,6 +605,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
 --- !u!1001 &902826227
 Prefab:
   m_ObjectHideFlags: 0
@@ -771,6 +772,18 @@ Prefab:
       propertyPath: levelSeconds
       value: 200
       objectReference: {fileID: 0}
+    - target: {fileID: 11407340, guid: e2114952e48a845cd86a564a272f1cd9, type: 2}
+      propertyPath: m_Color.r
+      value: 0.0021085658
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407340, guid: e2114952e48a845cd86a564a272f1cd9, type: 2}
+      propertyPath: m_Color.g
+      value: 0.28676468
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407340, guid: e2114952e48a845cd86a564a272f1cd9, type: 2}
+      propertyPath: m_Color.b
+      value: 0.15719703
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e2114952e48a845cd86a564a272f1cd9, type: 2}
   m_IsPrefabParent: 0
@@ -816,6 +829,18 @@ Prefab:
     - target: {fileID: 2000000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
       propertyPath: orthographic
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
+      propertyPath: m_BackGroundColor.r
+      value: 0.005675044
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
+      propertyPath: m_BackGroundColor.g
+      value: 0.0024870269
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
+      propertyPath: m_BackGroundColor.b
+      value: 0.007352948
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
