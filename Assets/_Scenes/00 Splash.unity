@@ -108,6 +108,8 @@ NavMeshSettings:
     tileSize: 256
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+=======
 --- !u!1 &977381641
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,3 +572,4 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: ed65dde16a38c42a79b8011ae4ed0bbb, type: 2}
   m_PrefabInternal: {fileID: 1022377538}
+>>>>>>> b776a6647025852760f2e237e3c32baa41e7cb75

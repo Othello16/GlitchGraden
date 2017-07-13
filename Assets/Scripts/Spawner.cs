@@ -24,7 +24,7 @@ public class Spawner : MonoBehaviour {
 		Attacker attacker = attackerGameObject.GetComponent<Attacker>();
 		
 		float meanSpawnDelay = attacker.seenEverySeconds;
-		float spawnsPerSecond = 1 / meanSpawnDelay;
+		float spawnsPerSecond = 2 / meanSpawnDelay;
 		
 		if (Time.deltaTime > meanSpawnDelay) {
 			Debug.LogWarning ("Spwan rate capped by frame rate");
