@@ -1,1 +1,1 @@
-<settings><promoImagesIcon>Assets/Junk/icon 100x100.png</promoImagesIcon><promoImagesFeatured>Assets/AssetStoreWooglie/icon.png</promoImagesFeatured></settings>
+<settings><promoImagesIcon>Assets/Images/100x100.png</promoImagesIcon><promoImagesFeatured>Assets/Images/600x280.png</promoImagesFeatured></settings>
