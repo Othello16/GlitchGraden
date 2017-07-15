@@ -289,8 +289,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -595, y: -84}
-  m_SizeDelta: {x: 284, y: 69}
+  m_AnchoredPosition: {x: -246, y: -84}
+  m_SizeDelta: {x: 982, y: 69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &343421939
 MonoBehaviour:
@@ -376,7 +376,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Options
+  m_Text: Volume and Difficulty Control
 --- !u!222 &343421941
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -416,8 +416,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -550, y: -2}
-  m_SizeDelta: {x: 373, y: 62}
+  m_AnchoredPosition: {x: -454, y: -2}
+  m_SizeDelta: {x: 566, y: 62}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &498678603
 MonoBehaviour:
@@ -503,7 +503,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Play Game
+  m_Text: Seal your fate
 --- !u!222 &498678605
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -887,8 +887,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -348, y: 178}
-  m_SizeDelta: {x: 778, y: 77}
+  m_AnchoredPosition: {x: -400, y: 178}
+  m_SizeDelta: {x: 674, y: 77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1654444587
 MonoBehaviour:
@@ -922,7 +922,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Stop them pesky animals
+  m_Text: Critters love Catus!
 --- !u!222 &1654444588
 CanvasRenderer:
   m_ObjectHideFlags: 0
